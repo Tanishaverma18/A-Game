@@ -1,4 +1,4 @@
-I have created a game ( Rock , Paper , Scissors ) with the help of Python.
+Created a game ( Rock , Paper , Scissors ) with the help of Python.
 How to Play:-
 * Enter your choice (rock, paper, or scissors) when prompted.
 * The computer will randomly select its choice.
